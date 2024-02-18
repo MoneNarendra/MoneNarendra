@@ -57,3 +57,11 @@
 </div>
 
 ###
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/MoneNarendra/MoneNarendra/output/snake.svg" alt="Snake animation" />
+
+###
