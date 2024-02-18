@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">I'm Narendra from Yemmiganur<br>- 📚 I'm currently learning MERN Full Stack<br>- ⚡ In my free time I learn new technology</h2>
+<h4 align="left">I'm Narendra from Yemmiganur<br>- 📚 I'm currently learning MERN Full Stack<br>- ⚡ In my free time I learn new technology</h4>
 
 ###
 
