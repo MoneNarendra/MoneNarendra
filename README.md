@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋</h1>
+<h1 align="center">Hey there👋 </h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">I'm Narendra from Yemmiganur<br>- 📚 I'm currently learning MERN Full Stack<br>- ⚡ In my free time I learn new technology</h3>
+<h2 align="left">I'm Narendra from Yemmiganur<br>- 📚 I'm currently learning MERN Full Stack<br>- ⚡ In my free time I learn new technology</h2>
 
 ###
 
